@@ -3,6 +3,7 @@ using Mission13_rcroft1_backend.Data;
 
 namespace Mission13_rcroft1_backend.Controllers
 {
+    // setting up the api
     [ApiController]
     [Route("[controller]")]
     public class MovieController : Controller

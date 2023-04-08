@@ -2,6 +2,7 @@
 
 namespace Mission13_rcroft1_backend.Data
 {
+    // creating the Movies fields
     public class Movies
     {
         [Key]
